@@ -50,7 +50,7 @@ AI Studio integration is planned for the next phase.
 
 ## Design System
 
-The visual language of OZ Theory is defined in `design.md`.
+The visual language of OZ Theory is defined in `DESIGN.md`.
 
 Key principles:
 
@@ -93,7 +93,7 @@ Key principles:
 ## Repository
 
 - README.md
-- design.md
+- DESIGN.md
 - OZ_THEORY_PRD_v0.1.md
 - screenshots/
 
