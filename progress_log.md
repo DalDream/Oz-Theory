@@ -60,6 +60,7 @@ First rough prototype of Division 1 OS / OZ Theory app.
 * Archive list persists across sessions
 * Archived Report Detail opens correctly
 * Mobile readability verified and better than desktop preview
+* The v0.2 Flow Complete application source code has been exported and archived in a separate private repository.
 
 ### Confirmed Flow
 
@@ -91,6 +92,11 @@ Gateway → Secure Channel → Mission Archive → Final Case Report → Archive
 * Preserve today’s chat, missions, mission statuses, and current screen until explicit session close or report archive
 * Revise Final Case Report schema from fixed categories to dynamic case entries
 * Continue refining Akane persona through real use
+
+### Notes
+- Public repository keeps concept notes, progress logs, and screenshots.
+- The v0.2 Flow Complete application source code has been exported and archived in a separate private repository.
+
 
 ---
 
