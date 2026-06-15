@@ -1,108 +1,58 @@
 # OZ Theory
 
-Narrative-Based Self Design System
+**Narrative-Based Self Design System**
 
-Inspired by Psycho-Pass.
+A personal narrative OS experiment that transforms daily planning, action, and reflection into an immersive case-reporting cycle.
 
----
+> This is a personal research and prototyping project.
+> It is not affiliated with, endorsed by, or distributed as an official product of any existing media franchise.
 
 ## Vision
 
-Transform daily planning, action, and reflection into an immersive narrative experience.
-
 OZ Theory explores a simple question:
 
-"What if self-development felt less like task management and more like participating in a living narrative?"
+> What if self-development felt less like task management and more like participating in a living narrative?
 
-Rather than treating planning, execution, and reflection as separate activities, OZ Theory reframes them as a continuous operational cycle.
+The system reframes daily life as an operational loop:
 
----
-
-## Why
-
-Most productivity systems focus on efficiency.
-
-OZ Theory focuses on meaning.
-
-The project investigates whether narrative structures, role-playing elements, and mission-oriented interfaces can increase consistency, engagement, and long-term self-development.
-
-The system is designed as an experiment in narrative-driven behavioral design.
-
----
+**Daily Input → Narrative Interpretation → Missions → Final Report → Archive**
 
 ## Current Status
 
-Prototype (v0.1)
+**v0.2.1 — Flow Complete / First Deployment**
+
+Confirmed flow:
+
+**Gateway → Secure Channel → Mission Archive → Final Case Report → Archive**
 
 Implemented:
 
-- Morning Briefing
-- Secure Channel
-- Mission Cards
-- Final Case Report
-- Archive
+* Morning Briefing
+* Secure Channel
+* Mission Archive
+* Mission status updates
+* Final Case Report
+* Archive persistence
+* Mobile deployment test
+* Gemini API / Local Offline Core fallback
 
-Built with Stitch.
-
-AI Studio integration is planned for the next phase.
-
----
-
-## Design System
-
-The visual language of OZ Theory is defined in `DESIGN.md`.
-
-Key principles:
-
-- Tactical HUD Interface
-- Narrative-first UX
-- Case-file Based Records
-- Cybernetic Operations Dashboard
-- High Signal / Low Noise Information Design
-
----
+The public repository contains concept notes, progress logs, and screenshots.
+The application source code is archived separately in a private repository.
 
 ## Roadmap
 
-### v0.1 — Prototype
+* **v0.1** — Initial Stitch prototype
+* **v0.2** — Routing stabilization
+* **v0.2.1** — Flow complete / first deployment
+* **v0.3** — Active session persistence / restore
+* **v0.4** — Dynamic case report generation
+* **v1.0** — Narrative OS
 
-- Core UI Screens
-- Mobile Preview
-- Narrative Flow Validation
+## Documents
 
-### v0.2 — AI Integration
-
-- AI Studio Integration
-- Dynamic Akane Responses
-- Automated Final Case Reports
-
-### v0.3 — Persistence
-
-- User Accounts
-- Archive Storage
-- Long-term Mission History
-
-### v1.0 — Narrative OS
-
-- Personalized Mission Engine
-- Adaptive Feedback System
-- Longitudinal Self Development Tracking
-
----
-
-## Repository
-
-- README.md
-- DESIGN.md
-- OZ_THEORY_PRD_v0.1.md
-- screenshots/
-
----
-
-## Status Log
-
-### 2026-06-07
-
-- First mobile prototype completed
-- QR-based preview tested
-- Core screens restored and documented
+* `progress_log.md` — development history
+* `DESIGN.md` — visual and interaction system
+* `OZ_THEORY_PRD_v0.1.md` — initial product requirements
+* `docs/screenshots/` — prototype and deployment screenshots
+* `docs/ideas.md` — future ideas
+* `docs/lessons-learned.md` — implementation notes
